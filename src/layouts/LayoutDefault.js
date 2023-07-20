@@ -10,7 +10,7 @@ const LayoutDefault = ({ children }) => (
     <main className="site-content" style={{backgroundColor: "#000000", color: "white", height: '100%'}}>
       {children}
     
-      <div className="container" style={{marginTop: '100px'}}>
+      <div className="container" style={{marginTop: '100px', marginBottom: '50px'}}>
       <p className="mb-0">© {new Date().getFullYear()} <a href="https://www.irunauto.com/" className="text-foot" style={{cursor: 'pointer', color: '#203f5a'}}>iRUN Technology </a></p>
       </div>
     </main>
