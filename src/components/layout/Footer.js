@@ -99,7 +99,7 @@ const Footer = ({ className, topOuterDivider, topDivider, ...props }) => {
       {/* <a
         href="#"
         onclick="topFunction()"
-        style={{backgroundColor: '#06345E'}}
+        style={{backgroundColor: '#EBB12E'}}
         id="back-to-top"
         className="btn btn-icon  back-to-top"
       >

@@ -41,23 +41,23 @@ body{
 
 .btn-hero-1{
     margin-right: 2rem;
-    background: #06345E 0% 0% no-repeat padding-box;
-    border: 1px solid #06345E;
+    background: #EBB12E 0% 0% no-repeat padding-box;
+    border: 1px solid #EBB12E;
     color: white;
 }
 
 .btn-hero-1:hover{
     background: #fff;
-    color: #06345E;
-    border: 1px solid #06345E;
+    color: #EBB12E;
+    border: 1px solid #EBB12E;
 }
 .btn-hero-2{
-    color: #06345E;
-    border: 1px solid #06345E;
+    color: #EBB12E;
+    border: 1px solid #EBB12E;
 }
 .btn-hero-2:hover{
-    background: #06345E 0% 0% no-repeat padding-box;
-    border: 1px solid #06345E;
+    background: #EBB12E 0% 0% no-repeat padding-box;
+    border: 1px solid #EBB12E;
     color: white;
 }
 .services{
@@ -288,8 +288,8 @@ body{
 
 
 .btn-hrmaneja{
-    background-color: #06345E !important;
-    border-color: #06345E !important;
+    background-color: #EBB12E !important;
+    border-color: #EBB12E !important;
     color: #fff;
     border-radius: 7px;
     width: 200px !important;

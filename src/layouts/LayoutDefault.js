@@ -11,7 +11,7 @@ const LayoutDefault = ({ children }) => (
       {children}
     
       <div className="container" style={{marginTop: '100px', marginBottom: '50px'}}>
-      <p className="mb-0">© {new Date().getFullYear()} <a href="https://www.irunauto.com/" className="text-foot" style={{cursor: 'pointer', color: '#203f5a'}}>iRUN Technology </a></p>
+      <p className="mb-0">© {new Date().getFullYear()} <a href="https://www.irunauto.com/" className="text-foot" style={{cursor: 'pointer', color: '#EBB12E'}}>iRUN Technology </a></p>
       </div>
     </main>
     
