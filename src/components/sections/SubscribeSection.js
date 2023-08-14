@@ -25,7 +25,7 @@ const Subscribtion = () => {
 
       setEmail('');
     } catch (err) {
-      setError("User already subscribed !");
+      setError("Error occurred, Please try again !");
       setEmail(email)
     }
   };
